@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GeoCerca</string>
+    <string name="enter">Entró en la geocerca circular.</string>
+    <string name="dwells">Se encuentra dentro de la geocerca circular.</string>
+    <string name="exit">Salió de la geocerca circular.</string>
+    <string name="google_maps_key" translatable="false">AIzaSyChYnqF_JYA87_UHUMdnWFHKI1H0epbrWI</string>
+</resources>
