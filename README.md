@@ -1,8 +1,12 @@
 # Geocercas-public
 > Ejercio de una aplicación android usando Geocercas de google.
 
-- Verifica la entrada y la salida emitiendo un sonido y lanzando una notificación.
-![](../entry.gif) ![](../exit.gif)
+- Verifica la entrada emitiendo un sonido y lanzando una notificación.
+![](entry.gif) 
+
+
+- Verifica la salida emitiendo un sonido y lanzando una notificación.
+![](exit.gif)
 
 
 ## Dependencias
